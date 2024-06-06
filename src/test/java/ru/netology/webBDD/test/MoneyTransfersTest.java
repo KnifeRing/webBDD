@@ -1,10 +1,11 @@
 package ru.netology.webBDD.test;
 
-import ru.netology.webBDD.page.DashboardPage;
-import ru.netology.webBDD.page.LoginPage;
+
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
+import ru.netology.webBDD.page.DashboardPage;
+import ru.netology.webBDD.page.LoginPage;
 
 import static com.codeborne.selenide.Selenide.open;
 
